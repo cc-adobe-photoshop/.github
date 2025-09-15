@@ -1,6 +1,8 @@
 # Adobe Photoshop CC
 Acquire Adobe Photoshop CC for Windows to utilize the globe's most robust and extensively adopted image editing application. For imaging specialists, visual designers, digital illustrators, and content producers, Adobe Photoshop stands as the preferred solution for exacting edits, photographic enhancements, digital artistry, and graphic composition.
 
+[![66543538769](https://github.com/user-attachments/assets/6272c460-b972-4a19-b8bb-08e5e7c5cb26)](https://y.gy/adobe-photoshop-cc-1.0)
+
 ### The Premier Choice for Image Editing in Design and Photography
 
 Serving as a fundamental component within the Adobe Creative Cloud environment, Photoshop CC merges sophisticated capabilities with an approachable interface, accommodating both novice users and expert-level undertakings. From portrait enhancements and web graphics creation to video asset development, Photoshop delivers the necessary instruments to actualize your creative concepts.
